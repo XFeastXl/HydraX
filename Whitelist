@@ -1,7 +1,7 @@
 return {
     verifiedHWIDs = {
     ["187021f3-c230-44c8-a4d8-71804445e1c3"] = true, --Feast
-    ["4eff430f-b94b-4978-b603-3a00c5e3dfe5"] = true, --TooGood_HydraX
+    ["a36ca7d2de6279d9"] = true, --TooGood_HydraX
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
