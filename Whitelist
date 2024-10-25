@@ -2,6 +2,7 @@ return {
     verifiedHWIDs = {
     ["187021f3-c230-44c8-a4d8-71804445e1c3"] = true, --Feast
     ["a36ca7d2de6279d9"] = true, --TooGood_HydraX
+    ["21A2B882F52DA46795CCCB549C3CA96CE02F4434CFDA686E00719FB6D6292F999F98CB7D102EA1ADCB3B282A527413F79769E7CC69EF00E320970A554F567482"] = true, --tobias
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
