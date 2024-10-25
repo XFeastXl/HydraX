@@ -1,1 +1,10 @@
-Gg
+return {
+    verifiedHWIDs = {
+    ["187021f3-c230-44c8-a4d8-71804445e1c3"] = true, --Feast
+    ["4eff430f-b94b-4978-b603-3a00c5e3dfe5"] = true, --Feast2
+    },
+    verifiedUserIds = {
+    [4298015048] = true, --Feast
+    [7403914114] = true, --Feast2
+    }
+}
