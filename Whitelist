@@ -20,5 +20,6 @@ return {
     [4298015048] = true, --Feast
     [7403914114] = true, --TooGood_HydraX
     [5459691159] = true,
+    [4591042318] = true,
     }
 }
