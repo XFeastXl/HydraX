@@ -1,20 +1,5 @@
 return {
     verifiedHWIDs = {
-    ["187021f3-c230-44c8-a4d8-71804445e1c3"] = true,
-    ["21A2B882F52DA46795CCCB549C3CA96CE02F4434CFDA686E00719FB6D6292F999F98CB7D102EA1ADCB3B282A527413F79769E7CC69EF00E320970A554F567482"] = true,
-    ["fa110590a464683af480fe126028b849cc6d7db7a0406586c1760201e648cb7a"] = true,
-    ["6b0605cf28618937521c6e23d09f3b3689465387d0ac970e3a7c5ed9801c53f8"] = true,
-    ["41443d49-8bec-11ef-b4de-806e6f6e6963"] = true,
-    ["5affcf879fcc3a9c9d13217744156e3a5a274b03dcf5cf4c1aab5bfb268385a9"] = true,
-    ["aaad50c88374137a36ce1dae4342b6dac985150306ddde188f066bf2f64aaf42"] = true,
-    ["2e16fdaaaf0b4ff9b71ebc7e1240fccdbeb06cc1ed2d18238fc0ce64c6c2ba5e"] = true,
-    ["a36ca7d2de6279d9"] = true,
-    ["5affcf879fcc3a9c9d13217744156e3a5a274b03dcf5cf4c1aab5bfb268385a9"] = true,
-    ["6b0605cf28618937521c6e23d09f3b3689465387d0ac970e3a7c5ed9801c53f8"] = true,
-    ["273f5ac0-d76b-11ee-ad17-806e6f6e6963"] = true,
-    ["c31906c21537b9dc9967ade19d5645672c1570296aada8ab8b136323c51c238f"] = true,
-    ["f95bb76587faf08d"] = true,
-    ["a36ca7d2de6279d9"] = true,
     ["a36ca7d2de6279d9"] = true,
     ["a36ca7d2de6279d9"] = true,
     ["a36ca7d2de6279d9"] = true,
@@ -28,7 +13,5 @@ return {
     verifiedUserIds = {
     [4298015048] = true, --Feast
     [7403914114] = true, --TooGood_HydraX
-    [5459691159] = true,
-    [4591042318] = true,
     }
 }
